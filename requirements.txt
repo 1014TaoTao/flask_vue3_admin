@@ -10,4 +10,3 @@ flask-marshmallow
 flask-bootstrap
 marshmallow-sqlalchemy
 python-dotenv
-langchain

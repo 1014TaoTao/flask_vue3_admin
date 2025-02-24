@@ -1,5 +1,5 @@
 #### 1、介绍
-> my_demo_project：python的flask项目整合，打造团队工程项目规范
+> Flask-Vue3-Admin 是一个基于 Flask 后端框架和 Vue 3 前端框架的现代化管理后台系统。它结合了 flask-restx、flask-sqlalchemy 和 flask-marshmallow 等扩展，为开发者提供了一套高效、简洁且易于维护的 API 接口与数据模型管理工具。
 
 #### 2、软件架构
 > 用到了flask、flask-restx、flask-migrate、flask-sqlalchemy、蓝图等技术
