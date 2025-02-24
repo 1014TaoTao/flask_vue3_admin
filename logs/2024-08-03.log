@@ -1,0 +1,147 @@
+[2024-08-03 03:37:09 Sat] - [INFO] - [app:init_databases.py:init_databases:61]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 03:37:09 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 03:37:09 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 03:37:09 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 03:37:10 Sat] - [INFO] - [app:init_databases.py:init_databases:61]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 03:37:10 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 03:37:10 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 08:07:15 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:07:15 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 08:07:15 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 08:07:15 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 08:07:16 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:07:16 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 08:07:16 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 08:07:28 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:07:28] "GET / HTTP/1.1" 200 -
+[2024-08-03 08:07:28 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:07:28] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+[2024-08-03 08:07:28 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:07:28] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+[2024-08-03 08:07:28 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:07:28] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+[2024-08-03 08:07:28 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:07:28] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+[2024-08-03 08:07:28 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:07:28] "GET /swagger.json HTTP/1.1" 200 -
+[2024-08-03 08:07:43 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:07:43] "[31m[1mGET /api/v1/tool?page_no=1&page_size=10&filters={"name":"demo","description":"备注"}&order_by=["create_at","asc"] HTTP/1.1[0m" 401 -
+[2024-08-03 08:08:18 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Detected change in '/Users/tao/workspace/mycode/my_demo_project/flaskproject/backend/app/api/v1/controllers/tool.py', reloading
+[2024-08-03 08:08:18 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 08:08:19 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:08:19 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 08:08:19 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 08:08:19 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:19] "GET / HTTP/1.1" 200 -
+[2024-08-03 08:08:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:20] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+[2024-08-03 08:08:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:20] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+[2024-08-03 08:08:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:20] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+[2024-08-03 08:08:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:20] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+[2024-08-03 08:08:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:20] "GET /swagger.json HTTP/1.1" 200 -
+[2024-08-03 08:08:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:20] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+[2024-08-03 08:08:29 Sat] - [INFO] - [flask_restx.namespace.工具管理:tool.py:get:33]: 查询工具【请求参数】: {'page_no': '1', 'page_size': '10', 'order_by': '["create_at","asc"]'}
+[2024-08-03 08:08:29 Sat] - [INFO] - [app:response.py:success_response:29]: Success: {'code': 200, 'msg': '查询成功', 'data': {'items': [{'id': 1, 'name': 'query_to_json', 'function_name': 'query_to_json', 'params': 'sql_query', 'code': "\nimport sqlite3\nimport json\n\ndb_path = '/Users/tao/workspace/mycode/my_demo_project/flaskproject/backend/dev_sql.db'\n\ndef query_to_json(params):\n    try:\n        with sqlite3.connect(db_path) as conn:\n            cursor = conn.cursor()\n            cursor.execute(params)\n            results = cursor.fetchall()\n            column_names = [description[0] for description in cursor.description]\n            json_results = [dict(zip(column_names, row)) for row in results]\n            return json.dumps(json_results, ensure_ascii=False)\n    except Exception as e:\n        return f'Error connect db: {e}'\n", 'create_at': '2024-08-03T08:08:19.686292', 'update_at': None, 'description': '输入sql语句，查询数据'}], 'pageInfo': {'counts': 1, 'pages': 1, 'page': 1, 'per_page': 10}}}
+[2024-08-03 08:08:29 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:08:29] "GET /api/v1/tool?page_no=1&page_size=10&order_by=["create_at","asc"] HTTP/1.1" 200 -
+[2024-08-03 08:51:18 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:51:18 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 08:51:18 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 08:51:18 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 08:51:19 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:51:19 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 08:51:19 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 08:51:26 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:51:26] "GET / HTTP/1.1" 200 -
+[2024-08-03 08:51:26 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:51:26] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+[2024-08-03 08:51:26 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:51:26] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+[2024-08-03 08:51:26 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:51:26] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+[2024-08-03 08:51:26 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:51:26] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+[2024-08-03 08:51:26 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:51:26] "GET /swagger.json HTTP/1.1" 200 -
+[2024-08-03 08:51:26 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:51:26] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+[2024-08-03 08:52:13 Sat] - [INFO] - [flask_restx.namespace.工具管理:tool.py:post:152]: 调试工具【请求参数】: {'query': '差我查询一下所有关于工具的数据'}
+[2024-08-03 08:52:13 Sat] - [INFO] - [app:response.py:success_response:29]: Success: {'code': 200, 'msg': '调试成功', 'data': <async_generator object AgentAI.process at 0x108209bc0>}
+[2024-08-03 08:52:13 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:52:13] "[35m[1mPOST /api/v1/tool/debug HTTP/1.1[0m" 500 -
+[2024-08-03 08:55:05 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Detected change in '/Users/tao/workspace/mycode/my_demo_project/flaskproject/backend/app/api/v1/controllers/tool.py', reloading
+[2024-08-03 08:55:05 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 08:55:20 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:55:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 08:55:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 08:55:20 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 08:55:21 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:55:21 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 08:55:21 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 08:55:25 Sat] - [INFO] - [flask_restx.namespace.工具管理:tool.py:post:152]: 调试工具【请求参数】: {'query': '帮我查询一下所有关于工具的数据'}
+[2024-08-03 08:55:25 Sat] - [INFO] - [app:response.py:success_response:29]: Success: {'code': 200, 'msg': '调试成功', 'data': '<async_generator object AgentAI.process at 0x104f3e140>'}
+[2024-08-03 08:55:25 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 08:55:25] "POST /api/v1/tool/debug HTTP/1.1" 200 -
+[2024-08-03 08:58:51 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:58:51 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 08:58:51 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 08:58:51 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 08:58:53 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 08:58:53 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 08:58:53 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 08:59:06 Sat] - [INFO] - [flask_restx.namespace.工具管理:tool.py:post:152]: 调试工具【请求参数】: {'query': '帮我查询一下所有关于工具的数据'}
+[2024-08-03 09:01:48 Sat] - [INFO] - [app:response.py:success_response:29]: Success: {'code': 200, 'msg': '调试成功', 'data': '<async_generator object AgentAI.process at 0x10512fa40>'}
+[2024-08-03 09:01:48 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:01:48] "POST /api/v1/tool/debug HTTP/1.1" 200 -
+[2024-08-03 09:02:59 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:02:59 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 09:02:59 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 09:02:59 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 09:03:00 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:03:00 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 09:03:00 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 09:03:06 Sat] - [INFO] - [flask_restx.namespace.工具管理:tool.py:post:152]: 调试工具【请求参数】: {'query': '帮我查询一下所有关于工具的数据'}
+[2024-08-03 09:03:06 Sat] - [INFO] - [app:response.py:success_response:29]: Success: {'code': 200, 'msg': '调试成功', 'data': '<async_generator object AgentAI.process at 0x119fda140>'}
+[2024-08-03 09:03:06 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:03:06] "POST /api/v1/tool/debug HTTP/1.1" 200 -
+[2024-08-03 09:11:50 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:11:50 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 09:11:50 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 09:11:50 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 09:11:51 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:11:51 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 09:11:51 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 09:11:59 Sat] - [INFO] - [flask_restx.namespace.工具管理:tool.py:post:152]: 调试工具【请求参数】: {'query': '帮我查询一下所有关于工具的数据'}
+[2024-08-03 09:11:59 Sat] - [INFO] - [app:response.py:success_response:29]: Success: {'code': 200, 'msg': '调试成功', 'data': '<async_generator object AgentAI.process at 0x103b1a140>'}
+[2024-08-03 09:11:59 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:11:59] "POST /api/v1/tool/debug HTTP/1.1" 200 -
+[2024-08-03 09:12:29 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Detected change in '/Users/tao/workspace/mycode/my_demo_project/flaskproject/backend/app/api/v1/controllers/tool.py', reloading
+[2024-08-03 09:12:30 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 09:12:44 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:12:44 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 09:12:44 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 09:12:44 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 09:12:45 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:12:45 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 09:12:45 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 09:12:48 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:12:48] "[35m[1mPOST /api/v1/tool/debug HTTP/1.1[0m" 500 -
+[2024-08-03 09:13:30 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:13:30 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.3:5001
+[2024-08-03 09:13:30 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: [33mPress CTRL+C to quit[0m
+[2024-08-03 09:13:30 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Restarting with stat
+[2024-08-03 09:13:31 Sat] - [INFO] - [app:init_databases.py:init_databases:52]: System initialization data configured: [RoleModel:admin, RoleModel:user, UserModel:admin, UserModel:demo, UserModel:test, ToolModel: query_to_json]
+[2024-08-03 09:13:31 Sat] - [WARNING] - [werkzeug:_internal.py:_log:97]:  * Debugger is active!
+[2024-08-03 09:13:31 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]:  * Debugger PIN: 110-334-105
+[2024-08-03 09:13:37 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:13:37] "GET / HTTP/1.1" 200 -
+[2024-08-03 09:13:37 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:13:37] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+[2024-08-03 09:13:37 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:13:37] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+[2024-08-03 09:13:37 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:13:37] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+[2024-08-03 09:13:37 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:13:37] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+[2024-08-03 09:13:37 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:13:37] "GET /swagger.json HTTP/1.1" 200 -
+[2024-08-03 09:13:37 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:13:37] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+[2024-08-03 09:14:03 Sat] - [INFO] - [werkzeug:_internal.py:_log:97]: 127.0.0.1 - - [03/Aug/2024 09:14:03] "[35m[1mPOST /api/v1/tool/debug HTTP/1.1[0m" 500 -

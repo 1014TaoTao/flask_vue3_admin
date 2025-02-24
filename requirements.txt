@@ -1,0 +1,13 @@
+flask
+flask-caching
+flask-restx
+flask-sqlalchemy
+flask-migrate
+flask-bcrypt
+flask-cors
+flask-jwt-extended
+flask-marshmallow
+flask-bootstrap
+marshmallow-sqlalchemy
+python-dotenv
+langchain
